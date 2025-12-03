@@ -1,6 +1,13 @@
 """
 Final Project
 Sampson Mao
+
+Sources:
+https://en.wikipedia.org/wiki/Strassen_algorithm
+https://stanford.edu/~rezab/classes/cme323/S16/notes/Lecture03/cme323_lec3.pdf
+https://cs.stackexchange.com/questions/92666/strassen-algorithm-for-unusal-matrices
+
+Additional sources can be found in the slides
 """
 
 
